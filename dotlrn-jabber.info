@@ -16,7 +16,7 @@
         <maturity>2</maturity>
         <provides url="dotlrn-jabber" version="1.1b1"/>
         <requires url="jabber-portlet" version="1.1b1"/>
-
+        <requires url="dotlrn" version="2.1.0b1"/>
         <callbacks>
         </callbacks>
         <parameters>
