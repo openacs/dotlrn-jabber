@@ -194,7 +194,7 @@
         #}
 
         jabber_portlet::add_self_to_page -portal_id $portal_id -package_id 0
-	# we don't need a package_id here , this call makes the portlet availabel inside the admin space of dotlrn
+	# we don't need a package_id here , this call makes the portlet available inside the admin space of dotlrn
 	# adding a available portlet to a community actually creates a new instance.
 
     }
