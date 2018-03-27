@@ -89,7 +89,7 @@
         
 	#set room_name [jb_get_default_room_for_group  $community_id ] 
 	set room_name "abvcfdr" 
-	#Just a hack for some reason the dotlrn routins leave the dbatabase (postgres only) in an insecure
+	#Just a hack for some reason the dotlrn routines leave the dbatabase (postgres only) in an insecure
 	#state we are not able to create new acs_objects (we can but the call won't return)
 	
 	if {[db_0or1row get_room_id "SELECT room_id FROM jb_conference_rooms WHERE name =  :room_name"]} {

@@ -1,4 +1,4 @@
---  Copyrigth (C) 2003 Bjoern Kiesbye
+--  Copyright (C) 2003 Bjoern Kiesbye
 --  Author Bjoern Kiesbye
 --  email: Kiesbye@theservice.de Bjoern_kiesbye@web.de 
 --  This is free software distributed under the terms of the GNU Public
