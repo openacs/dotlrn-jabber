@@ -67,7 +67,7 @@
     } {
         Add the forums applet to a dotlrn community
     } {
-        # Just Mount the Jabber package under this communities URL
+        # Just Mount the Jabber package under this community URL
      
 #	set community_package_id [dotlrn_community::get_package_id $community_id]
 
